@@ -1,0 +1,8 @@
+{
+  "startedMode": "running",
+  "fusedAbility": "spark-beam",
+  "scoreAfterFuse": 40,
+  "pausedMode": "paused",
+  "resumedMode": "running",
+  "deterministicSeed": 20260228
+}

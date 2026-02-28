@@ -1,0 +1,46 @@
+{
+  "mode": "running",
+  "coordinateSystem": "origin top-left, x right, y down, units in canvas pixels",
+  "score": 40,
+  "hp": 3,
+  "elapsedMs": 33,
+  "player": {
+    "x": 220,
+    "y": 428,
+    "vx": 0,
+    "vy": 0,
+    "onGround": true,
+    "face": 1,
+    "invulnerableMs": 0
+  },
+  "abilities": [
+    "spark",
+    "beam"
+  ],
+  "fusedAbility": "spark-beam",
+  "activeStars": [
+    {
+      "x": 703,
+      "y": 309,
+      "kind": "cutter"
+    }
+  ],
+  "enemies": [
+    {
+      "x": 185,
+      "y": 430,
+      "vx": 0.153
+    },
+    {
+      "x": 356,
+      "y": 430,
+      "vx": -0.127
+    },
+    {
+      "x": 543,
+      "y": 430,
+      "vx": 0.097
+    }
+  ],
+  "summary": "Back in action"
+}
